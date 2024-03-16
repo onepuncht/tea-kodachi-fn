@@ -1,0 +1,25 @@
+{
+  "name": "tea-kodachi-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onepuncht/tea-kodachi-fn.git"
+  },
+  "author": "onepuncht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onepuncht/tea-kodachi-fn/issues"
+  },
+  "homepage": "https://github.com/onepuncht/tea-kodachi-fn#readme",
+  "dependencies": {
+    "tea-persona-fn": "^1.0.0",
+    "tea-sekiro-shadows": "^1.0.0",
+    "tea-soerya-pranama": "^1.0.0",
+    "tea-xl-itn": "^1.3.0"
+  }
+}
